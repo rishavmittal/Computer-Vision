@@ -85,3 +85,43 @@
   or <a href = "https://www.linkedin.com/in/lejoaoconte/"> menssege on LinkedIn</a>
   for me.
 </p>
+
+#### Português:
+<p>
+  A ideia deste projeto é a classificação das espécies de macacos com base em
+  dados adquiridas no
+  <a href="https://www.kaggle.com/slothkong/10-monkey-species" target = "_blank">
+    Kaggle
+  </a>.
+  Se você for edita-lo você deve prestar atenção nisso:
+ </p>
+
+<ol>
+  <li>Nas linhas 56, 61 e 82 do arquivo 1_macacos_treinamento.py você será alterado
+     'database/*' para a pasta do seu banco de dados.</li>
+  <li>A Rede Neural é treinada em 2_macacos_treinamento. * e os pesos
+     estão em model_macacos.h5.</li>
+  <li>Você precisará de bibliotecas de instalação, como Keras, Pandas, etc.</li>
+</ol>
+</br>
+<p>
+  Temos 10 espécies de macacos (ver imagens acima).
+</p>
+<p>
+  A Rede Neural foi treinando com:
+  <ul>
+    <li> steps_per_epoch = 16 </li>
+    <li> epochs = 100 </li>
+    <li> validation_steps = 4 </li>
+  </ul>
+  A precisão é de 70%, ou seja, nem todas as respostas são as esperadas, por isso,
+  você pode treinar novamente com outros valores de especificações dos falado acima,
+  e adicionando mais camadas de entrada e saída, assim como colocar uma função de
+  dropout e adicionar mais unidades de neurônios.
+</p>
+
+<p>
+  Para mais informações, mande um <a href="mailto:lejoaoconte@gmail.com"> email</a>
+  ou <a href = "https://www.linkedin.com/in/lejoaoconte/"> mensagem no LinkedIn</a>
+  para mim.
+</p>
