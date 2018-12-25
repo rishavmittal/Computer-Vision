@@ -9,8 +9,7 @@
 .</p>
 
 <p>
-  You can reproduce the codes whether the true creator is mentioned, in other words, you will
-  mention me in your publication or code.
+  You can reproduce the codes if the true creator is mentioned.
 </p>
 
 #### Português:
@@ -23,6 +22,5 @@
 </p>
 
 <p>
-  Você pode reproduzir os códigos se o verdadeiro criador for mencionado, ou
-  seja, você deve me emnsionar em sua publicação ou código.
+  Você pode reproduzir os códigos se o verdadeiro criador for mencionado.
 </p>
