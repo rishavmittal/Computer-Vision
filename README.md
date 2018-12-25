@@ -15,7 +15,7 @@
 
 #### Português:
 <p>
-  Esta pasta contém códigos sobre aprendizado profundo em Python, R e outras
+  Esta pasta contém códigos de deep learning em Python, R e outras
   linguagens de programação. Todos os projetos são descritos individualidade
   em suas pastas. Para qualquer dúvida entre em contato pelo
   <a href="https://www.linkedin.com/in/lejoaoconte/" target="_blank">LinkedIn</a>
