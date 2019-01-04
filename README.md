@@ -1,8 +1,8 @@
-# Deep-Learning
+# Computer Vision
 
 #### English:
 <p>
-  This folder contain codes about deep learning in Python, R and others programming languages.
+  This folder contain codes about Computer Vision in Python, R and others programming languages.
   All projects are described individuality in its folders. For any questions contact me by 
   <a href="https://www.linkedin.com/in/lejoaoconte/" target="_blank">LinkedIn</a> or
   <a href="mailto:lejoaoconte@gmail.com">lejoaoconte@gmail.com</a>
@@ -14,7 +14,7 @@
 
 #### Português:
 <p>
-  Esta pasta contém códigos de deep learning em Python, R e outras
+  Esta pasta contém códigos de Visão Computacional em Python, R e outras
   linguagens de programação. Todos os projetos são descritos individualidade
   em suas pastas. Para qualquer dúvida entre em contato pelo
   <a href="https://www.linkedin.com/in/lejoaoconte/" target="_blank">LinkedIn</a>
